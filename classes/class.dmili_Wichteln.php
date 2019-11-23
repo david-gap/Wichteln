@@ -1,9 +1,9 @@
 <?
 /**
  *
- *
- * Wichtel functions
- * Author:      David Voglgsnag
+  *
+ * https://github.com/david-gap/classes
+ * Author: David Voglgsnag
  */
 
 class dmili_Wichteln {

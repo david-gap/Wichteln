@@ -2,8 +2,7 @@
 /**
  *
  *
- * PHP Mailer - From Form Builder
- * https://github.com/david-gap/form-builder
+ * https://github.com/david-gap/classes
  * Author: David Voglgsnag
  * @version     1.0
  * @since       1.0
